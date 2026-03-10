@@ -9,7 +9,7 @@ pipeline {
 apiVersion: v1
 kind: Pod
 metadata:
-  name: hello-jenkins-pod-webapp
+  name: hello-jenkins-pod-webapp-1
   namespace: github-pipeline
   labels:
     app: hello-jenkins
